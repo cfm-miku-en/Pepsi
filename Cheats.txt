@@ -36,5 +36,7 @@
     "tsbib": "Tsbib",
     "WalkSimulator": "Walk Simulator",
     "AceUtilsPad": "AUP",
-    "Chud menu": "Chud Menu"
+    "Chud menu": "Chud Menu",
+    "ForeverCosmetx": "ForeverCosmetx",
+    "Cosmetx": "Cosmetx",
   }
