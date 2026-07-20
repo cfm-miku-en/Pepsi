@@ -1,4 +1,5 @@
 {
+  "gtag_mods": "Modded",
   "GFaces": "GFaces",
   "github.com/maroon-shadow/SimpleBoards": "Simple Boards",
   "github.com/ZlothY29IQ/GorillaMediaDisplay": "Gorilla Media Display",
